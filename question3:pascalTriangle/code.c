@@ -1,3 +1,8 @@
+//question: pascal triangle
+
+
+// please refer image which attach to this folder
+// here we use combinaton formula: nCr=n!/((n-r)!*r!)
 #include <stdio.h>
  
 long factorial(int);
