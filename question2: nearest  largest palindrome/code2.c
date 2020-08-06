@@ -1,5 +1,5 @@
 
-// Question: find next nearest largest palindrome  or
+// Question: find next nearest largest palindrome  in another words
 //     find the smallest palindrome
 
 
